@@ -1,0 +1,20 @@
+.task-banner {
+  overflow: hidden;
+}
+
+.task-box {
+  width: 800px;
+  background: #ddd;
+  margin: 60px auto;
+}
+
+.task-header {
+  background-color: #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  h2 {
+    color: #fff;
+  }
+}
